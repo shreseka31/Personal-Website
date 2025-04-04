@@ -1,14 +1,12 @@
 <html lang="en">
-<style>
-    #body {font-family: 'Times New Roman', serif;}
-</style>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shreya Sekar Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body style = "background-color: green">
+<body style = "background-color: green;font-family: 'Times New Roman', serif;">
     <header>
         <h1>Shreya Sekar</h1>
         <nav>
