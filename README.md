@@ -8,7 +8,7 @@
     <title>Shreya Sekar Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<body style = "background-color: #ff0000">
     <header>
         <h1>Shreya Sekar</h1>
         <nav>
