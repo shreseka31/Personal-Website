@@ -1,6 +1,6 @@
 <html lang="en">
 <style>
-    #body {background-color: #ff0000; font-family: 'Times New Roman', serif;}
+    #body {background-color: green; font-family: 'Times New Roman', serif;}
 </style>
 <head>
     <meta charset="UTF-8">
