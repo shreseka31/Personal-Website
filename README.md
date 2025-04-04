@@ -6,7 +6,7 @@
     <title>Shreya Sekar Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body style = "background-color: green;font-family: 'Times New Roman', serif;">
+<body>
     <header>
         <h1>Shreya Sekar</h1>
         <nav>
