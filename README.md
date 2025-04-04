@@ -1,4 +1,7 @@
 <html lang="en">
+<style>
+    body {background-color: brown; font-family: 'Times New Roman', serif;}
+</style>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
